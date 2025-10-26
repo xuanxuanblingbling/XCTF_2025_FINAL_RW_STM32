@@ -28,11 +28,19 @@ Using CVE-2020-15808 to bypass STM32F103 RDP1, you may need to debug the target 
 Glitch Attack is a probabilistic, luck-dependent attack technique. If participants use Glitch Attack to bypass STM32F103 RDP1 , they can borrow an OSR PowerShorter, PICO oscilloscopes (limited quantities), and Glitch vulnerable STM32 development boards (Red Reset Button) from the organizers.
 
 
+## Logic Analyzer
+
+逻辑分析仪主要用来作为故障注入时示波器的平替，对应软件[Saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)。
+
+Logic Analyzer is mainly used as an alternative to an oscilloscope to Glitch Attack, with the corresponding software being [Saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads).
+
+
 ## NFC
 
-可以向主办方借用NFC读卡器或者PM3。
+可以向主办方借用NFC读卡器，PM3，或者 Flipper Zero。
 
-You can borrow an NFC reader or a PM3 from the organizer.
+You can borrow NFC reader, PM3 or Flipper Zero from the organizer.
+
 
 ## Hint
 
