@@ -23,7 +23,7 @@ Using CVE-2020-15808 to bypass STM32F103 RDP1, you may need to debug the target 
 
 - [https://gitee.com/osr-tech/powershorter](https://gitee.com/osr-tech/powershorter)
 
-故障注入是一种有概率的，需要运气的攻击手段，如果选手使用故障注入方法完成STM32F103 RDP1绕过，可以向主办方借用OSR PowerShorter，PICO 示波器（数量有限），和容易受故障攻击的STM32开发板（红色RESET按钮）。
+故障注入是一种有概率的，需要运气的攻击手段，如果选手使用故障注入方法完成STM32F103 RDP1绕过，可以向主办方借用OSR PowerShorter，PICO 示波器（数量有限），和容易受故障攻击的STM32开发板（红色Reset按钮）。
 
 Glitch Attack is a probabilistic, luck-dependent attack technique. If participants use Glitch Attack to bypass STM32F103 RDP1 , they can borrow an OSR PowerShorter, PICO oscilloscopes (limited quantities), and Glitch vulnerable STM32 development boards (Red Reset Button) from the organizers.
 
