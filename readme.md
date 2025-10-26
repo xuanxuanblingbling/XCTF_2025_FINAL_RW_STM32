@@ -5,6 +5,8 @@
 - PCB/STM32F103C8T6(White_Button).pdf: STM32F103（白色 Reset 按钮） PCB 的 电路原理图
 - STM32CubeProgrammerPatch/STLinkUSBDriver.dll: 使用 Windows 版本的 STM32CubeProgrammer 连接 ST-LINK 时，有可能出现单字节序列号导致无法连接，可以将这个Patch覆盖STM32CubeProgrammer/bin目录下的原始dll，避免出现此现象（在2.16.0版本上测试通过）。
 
+--- 
+
 - Attachment/RDPbypass.elf: STM32 challenge ELF，with debug_info, not stripped, no Correct UID, for reverse and debug.
 - Glitch/power_shorter-1.0.2-py3-none-any.whl: OSR PowerShorter Control python packages 
 - PCB/STM32F103C8T6(White_Button).pdf: STM32F103 Dev Board(White Reset Button) PCB schematic
